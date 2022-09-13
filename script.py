@@ -1,33 +1,28 @@
 class Script(object):
     START_TXT = """Hello {},
 
-My name is <a href=https://t.me/{}>{}</a>!
+My name is Naruto 
 
-<b>I can provide Movies. A Telegram Auto Filter Bot. Its Easy To Use Me :)
+<b>I can provide Movies from M&C Movies. Its Easy To Use Me :)
 
-Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
+Join @MC_Movie_Requests To Request Movies
+
+</b>"""
 
     HELP_TXT = """Hey {}
 
 <b>Here Is The Help For My Commands.</b>"""
 
     ABOUT_TXT = """<b>➥ My name: {}
-➥ Creator: <a href='https://t.me/zautekm'>Zaute Km</a>
-➥ Library: <a href='https://docs.pyrogram.org/'>Pyrogram</a>
-➥ Language: Python 𝟹
-➥ Data Base: <a href='https://www.mongodb.com/'>MongoDB</a>
-➥ Bot Server: <a href='https://heroku.com'>Heroku</a>
-➥ Build Status: v2.0.1 [ Beta ]"""
+➥ Creator: @MC_Movie_Requests 
 
     SOURCE_TXT = """<b>Source:</b>
-IMDb is a Open source project.
-Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 👈</a>
-
+There is no source. 
 <b>DEVS:</b>
-- <a href='https://t.me/josprojects'>Jos Projects</a>
+- <a href='https://t.me/MC_Movie_Requests'>MC_Movie_Requests</a>
 
 <b>SUPPORT GROUP</b>
-- <a href='https://t.me/+y53tWFUw6Q43NzE9'>Jos Movie Club</a>"""
+- <a href='https://t.me/MC_Movie_Requests'>MC Movies</a>"""
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 
